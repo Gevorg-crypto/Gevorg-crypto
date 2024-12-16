@@ -4,8 +4,8 @@
 I’m a Software Engineer with a passion for building innovative and impactful solutions. With expertise in modern web and mobile technologies, I’m currently exploring the exciting frontiers of AI technologies and the Crypto industry.
 
 ### 🛠️ My Tech Stack
-**Frontend**: **ReactJS**, **React Native**, **Next.js** 
-**Backend**: **Laravel**, **Node.js**
+**Frontend**: **ReactJS**, **React Native**, **Next.js** /
+**Backend**: **Laravel**, **Node.js** /
 **Mobile**: **Flutter**
 
 **Focus Areas: AI development, blockchain, and cryptocurrency technologies**
