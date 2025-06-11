@@ -71,7 +71,7 @@ I’m always open to collaborating on exciting projects or exchanging ideas abou
         <br>Tailwind CSS
     </td>
     <td align="center" width="90">
-      <a href="https://getbootstrap.com/" target="_blank"><img alt="Laravel" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/laravel.gif" /></a>
+      <a href="https://getbootstrap.com/" target="_blank"><img alt="Laravel" width="45" height="45" src="https://www.topsinfosolutions.com/wp-content/uploads/2024/05/laravel-client-img.png" /></a>
         <br>Laravel
     </td>
     <td align="center" width="90">
